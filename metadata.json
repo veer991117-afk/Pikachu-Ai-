@@ -1,0 +1,6 @@
+{
+  "name": "Pikachu AI",
+  "description": "Pikachu AI - Your friendly, electric companion. Developed by Rajeev Thakur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
